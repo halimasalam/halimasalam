@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Halima+Salam;Bioinformatician+%7C+Genomics+%26+AI;NGS+%7C+Pipelines+%7C+Machine+Learning;Open+Science+%7C+Reproducibility" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Halima+Salam;Bioinformatician+%7C+Genomics+%26+AI;NGS+%7C+Pipelines+%7C+Machine+Learning" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://www.pnnl.gov/sites/default/files/media/image/Picture4_0.jpg" width="1200" alt="Profile Picture"/>
+  <img src="https://www.pnnl.gov/sites/default/files/media/image/Picture4_0.jpg" width="800" alt="Profile Picture"/>
 </p>
 
 🔬 Bioinformatician with research and industry experience in genomic data analysis and molecular diagnostics. 
