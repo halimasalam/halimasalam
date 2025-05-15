@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://www.pnnl.gov/sites/default/files/media/image/Picture4_0.jpg" width="500" alt="Profile Picture"/>
+  <img src="https://github.com/halimasalam/halimasalam/blob/main/banner.png" width="100%" alt="Profile Picture"/>
 </p>
 
 🔬 Bioinformatician with research and industry experience in genomic data analysis and molecular diagnostics. 
@@ -53,9 +53,14 @@
 
 ### 📫 Contact Me
 
+### 📫 Contact Me
+
 <p>
   <a href="mailto:halimasalam66@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email Badge" />
   </a>
-  <!-- Optional: Add LinkedIn or personal site if you'd like -->
+  <a href="https://www.linkedin.com/in/abdulsalam-halima/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
 </p>
+
