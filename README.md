@@ -3,15 +3,19 @@
 </p>
 
 <p align="center">
-  <img src="[https://avatars.githubusercontent.com/u/your_user_id_here](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkD7VIuXTIxcf0ipz9Am8zKXICZczYs3FG8g&s)" width="200" alt="Halima Salam Profile Picture"/>
+  <img src="[https://avatars.githubusercontent.com/u/your_user_id_here](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkD7VIuXTIxcf0ipz9Am8zKXICZczYs3FG8g&s)" width="200" alt="Profile Picture"/>
 </p>
 
-🔬 Bioinformatician with research and industry experience in genomic data analysis and molecular diagnostics.  
-🧬 Skilled in next-generation sequencing (NGS), multi-omics integration, and PCR-based assay development.  
+🔬 Bioinformatician with research and industry experience in genomic data analysis and molecular diagnostics. 
+
+🧬 Skilled in next-generation sequencing (NGS), multi-omics integration, and PCR-based assay development. 
+
 🧠 Currently exploring the application of machine learning and AI to biological data.  
+
 📊 Experienced in Python, R, Bash, SQL, delivering production-grade code and CI/CD pipelines in collaborative, multidisciplinary environments.
-🔁 Proficient in the design and deployment of automated, reproducible pipelines using Nextflow and Snakemake on HPC and cloud infrastructures (AWS, GCP).    
-🤝 Collaborative problem-solver with a focus on transparency and scientific integrity.  
+
+🔁 Proficient in the design and deployment of automated, reproducible pipelines using Nextflow and Snakemake on HPC and cloud infrastructures (AWS, GCP). 
+
 
 ---
 
@@ -30,11 +34,11 @@
 
 ### 🚀 Projects & Interests
 
-- 🔬 Genomic data analysis & molecular diagnostics  
-- 📊 Multi-omics data integration  
-- 🤖 ML/AI applications in bioinformatics  
-- 🧪 Workflow development and automation  
-- 🧾 Reproducible and open science practices  
+- Genomic data analysis & molecular diagnostics  
+- Multi-omics data integration  
+- ML/AI applications in bioinformatics  
+- Workflow development and automation  
+- Reproducible and open science practices  
 
 ---
 
