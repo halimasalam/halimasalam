@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="[https://avatars.githubusercontent.com/u/your_user_id_here](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkD7VIuXTIxcf0ipz9Am8zKXICZczYs3FG8g&s)" width="200" alt="Profile Picture"/>
+  <img src="https://www.pnnl.gov/sites/default/files/media/image/Picture4_0.jpg" width="200" alt="Profile Picture"/>
 </p>
 
 🔬 Bioinformatician with research and industry experience in genomic data analysis and molecular diagnostics. 
