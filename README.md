@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Halima Salam</h1>
-<h3 align="center">Bioinformatician | Genomic Data Analyst | AI in Biology</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Halima+Salam;Bioinformatician+%7C+Genomics+%26+AI;NGS+%7C+Pipelines+%7C+Machine+Learning;Open+Science+%7C+Reproducibility" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="[https://avatars.githubusercontent.com/u/your_user_id_here](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkD7VIuXTIxcf0ipz9Am8zKXICZczYs3FG8g&s)" width="200" alt="Halima Salam Profile Picture"/>
+</p>
 
 🔬 Bioinformatician with research and industry experience in genomic data analysis and molecular diagnostics.  
 🧬 Skilled in next-generation sequencing (NGS), multi-omics integration, and PCR-based assay development.  
