@@ -1,7 +1,8 @@
 <h1 align="center">Hi there 👋 I'm Halima Abdulsalam, a Bioinformatician</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Bioinformatician+%7C+Genomics+%26+AI;NGS+%7C+Pipelines+%7C+Machine+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?
+font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Bioinformatician+%7C+Genomics+%26+Transcriptomics;NGS+%7C+Pipelines+%7C+Machine+Learning+%7C+AI;Malaria+Genomics" alt="Typing SVG" />
 </p>
 
 <p align="center">
