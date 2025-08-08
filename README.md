@@ -34,13 +34,13 @@
 
 ---
 
-### Projects & Interests
+### Link to my Portfolio
 
-- Genomic data analysis & molecular diagnostics  
-- Multi-omics data integration  
-- ML/AI applications in bioinformatics  
-- Workflow development and automation  
-- Reproducible and open science practices  
+<p align="left">
+  <a href="https://halimasalam.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+  </a>
+<p
 
 ---
 
