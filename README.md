@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/halimasalam/halimasalam/blob/main/banner.png" alt="Profile Picture" style="width:100%; height:400px; object-fit:cover;" />
+  <img src="[https://github.com/halimasalam/halimasalam/blob/main/profile_banner.png]" alt="Profile Picture" style="width:100%; height:400px; object-fit:cover;" />
 </p>
 
 - Bioinformatician with research and industry experience in genomic data analysis and molecular diagnostics. 
