@@ -1,22 +1,20 @@
 <h1 align="center">Hi there 👋 I'm Halima Abdulsalam, a Bioinformatician</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=530&lines=Bioinformatics+%7C+Genomics+%7C+Transcriptomics;Epigenomics+%7C+Malaria+Genomics+%7C+NGS;Pipelines+%7C+Machine+Learning+%7C+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=530&lines=Bioinformatics+%7C+Genomics+%7C+Transcriptomics;Pipelines+%7C+Machine+Learning+%7C+AI;Epigenomics+%7C+Malaria+Genomics+%7C+NGS" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://github.com/halimasalam/halimasalam/blob/main/profile_banner.png" alt="Profile Picture" style="width:100%; height:400px; object-fit:cover;" />
 </p>
 
-- Bioinformatician with research and industry experience in genomic data analysis and molecular diagnostics. 
+- Computational biologist and bioinformatician working at the intersection of genomics, transcriptomics, and machine learning 
 
-- Skilled in next-generation sequencing (NGS), multi-omics integration, and PCR-based assay development. 
+- Experienced in large-scale genomic and transcriptomic data analysis, long-read sequencing, RNA-seq, and reproducible workflow development using Python, R, Nextflow, and HPC/cloud environments. 
 
-- Currently exploring the application of machine learning and AI to biological data.  
+- My research interests include multi-omics integration, statistical genomics, AI-driven biological data analysis, precision health, and computational approaches for understanding complex biological systems.  
 
-- Experienced in Python, R, Bash, SQL, delivering production-grade code and CI/CD pipelines in collaborative, multidisciplinary environments.
-
-- Proficient in the design and deployment of automated, reproducible pipelines using Nextflow and Snakemake on HPC and cloud infrastructures (AWS, GCP). 
+- Previously worked across infectious disease genomics, cancer genomics, and genomic surveillance in both research and production genomics environments.
 
 
 ---
@@ -30,6 +28,7 @@
   <img src="https://img.shields.io/badge/Workflow-Snakemake-green?style=flat" />
   <img src="https://img.shields.io/badge/Tool-Git-orange?style=flat&logo=git" />
   <img src="https://img.shields.io/badge/Tool-Docker-blue?style=flat&logo=docker" />
+  <img src="https://img.shields.io/badge/AWS-S3-orange?style=flat&logo=amazonaws" />
 </p>
 
 ---
